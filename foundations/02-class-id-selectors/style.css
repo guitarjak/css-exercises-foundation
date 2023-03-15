@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pink {
+    background-color: lightpink;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
